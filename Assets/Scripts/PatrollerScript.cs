@@ -57,7 +57,6 @@ public class PatrollerScript : MonoBehaviour
 
     void ChasePlayer()
     {
-        Debug.Log("You are being chased!");
         this.transform.position = Vector3.MoveTowards(this.transform.position, pc.transform.position, .01f);
 
         if (HasCaught)

@@ -35,7 +35,6 @@ public class PlayerController : MonoBehaviour
 
             if (doubleClicked)
             {
-                Debug.Log("Dash!");
                 speed = 6f;
                 Invoke("ResetSpeed", 1.5f);
             }
