@@ -1,2 +1,2 @@
 # KTangAvoider
- Dungeon Stealth Game
+ Pink Pixel Stealth Game
