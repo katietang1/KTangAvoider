@@ -12,7 +12,7 @@
 	PlayerController.cs
 	WaypointsScript.cs
 
-3. 	N/A
+3. 	Player gets stuck on random parts of map sometimes, mouse clicking a couple times 	will fix it.
 
 4. 	Menu Screen Background: https://erkahoth.artstation.com/projects/05oZ5
 	Menu Tutorial I used: https://www.youtube.com/watch?v=-GWjA6dixV4&ab_channel=BMo

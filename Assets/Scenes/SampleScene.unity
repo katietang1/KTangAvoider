@@ -6129,7 +6129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IsEndpoint: 0
-  isSentry: 1
+  isSentry: 0
   PauseTime: 3
 --- !u!1 &639371645
 GameObject:
